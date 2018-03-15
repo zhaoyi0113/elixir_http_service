@@ -12,7 +12,7 @@ be found at [https://hexdocs.pm/my_first_app](https://hexdocs.pm/my_first_app).
 
 ## Start
 
-run `mex run --no-halt` to launch your application listening on the port 8080.
+run `mix run --no-halt` to launch your application listening on the port 8080.
 
 ## Test
 
